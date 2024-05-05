@@ -1,4 +1,4 @@
-![image](https://github.com/darksidecat/balatro_ukrainian/assets/1649575/c6c90adc-c651-421a-8e6a-4a919770b19b)# Українська локалізація Balatro
+# Українська локалізація Balatro
 
 Версія гри 1.0.1f-FULL
 
