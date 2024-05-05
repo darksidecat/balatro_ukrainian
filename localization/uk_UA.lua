@@ -3247,7 +3247,7 @@
                 text = {
                     "Оберіть {C:attention}#1#{} з",
                     "{C:attention}#2#{C:attention} Ігрових{} карт, які",
-                    "add to your deck"
+                    "додамо до колоди"
                 }
             },
             p_standard_jumbo = {
@@ -3255,7 +3255,7 @@
                 text = {
                     "Оберіть {C:attention}#1#{} з",
                     "{C:attention}#2#{C:attention} Ігрових{} карт, які",
-                    "add to your deck"
+                    "додамо до колоди"
                 }
             },
             p_standard_mega = {
@@ -3263,7 +3263,7 @@
                 text = {
                     "Оберіть {C:attention}#1#{} з",
                     "{C:attention}#2#{C:attention} Ігрових{} карт, які",
-                    "add to your deck"
+                    "додамо до колоди"
                 }
             },
             p_buffoon_normal = {
