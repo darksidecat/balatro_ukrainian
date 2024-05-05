@@ -9,10 +9,12 @@
    Папку з грою можна відкрити через стім `ПКМ по грі - Управління - Переглянути локальні файли`
 
 2) В вікні адреси в Провіднику ведіть `%appdata%\Balatro` та натисніть `Ентер`
-  ![image](https://github.com/darksidecat/balatro_ukrainian/assets/1649575/b28ec5dd-e9e0-4b1e-bfa0-c9d5e6744a1f)
-  Має бути щось накшталт `C:\Users\darksidecat\AppData\Roaming\Balatro`
-  Копіюємо в цю папку папки `resources, mods, localization`
-  Якщо директорії не існує, то треба запустити гру один раз. 
+   
+   ![image](https://github.com/darksidecat/balatro_ukrainian/assets/1649575/b28ec5dd-e9e0-4b1e-bfa0-c9d5e6744a1f)
+   
+   Має бути щось накшталт `C:\Users\darksidecat\AppData\Roaming\Balatro`
+   Копіюємо в цю папку папки `resources, mods, localization`
+   Якщо директорії не існує, то треба запустити один раз гру. 
 
 4) Запускаємо гру, разом з нею запуститься загрузчик модів в яуому буде відображено успішне завантаження моду, наприклад ось так
   ```INFO - [LOVELY] Applied 3 patches to 'game.lua'```
