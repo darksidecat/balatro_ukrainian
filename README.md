@@ -30,7 +30,7 @@
     1. Перейти за шляхом:
         - Steam Native/Steam Deck: `~/.steam/steam/steamapps/compatdata 2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/` 
         - Steam Flatpak: `~/.var/app/com.valvesoftware.Steam/.steam/steam steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData Roaming/Balatro/`
-      * (Якщо директорії не існує, то треба запустити один раз гру.)
+        > Якщо директорії не існує, то треба запустити один раз гру.
     2. Копіюємо в цю теку папки `resources, mods, localization`
 4) Запускаємо гру, разом з нею запуститься завантажувач модів в якому буде показано успішне завантаження моду, наприклад ось так:
   ```INFO - [LOVELY] Applied 3 patches to 'game.lua'```
