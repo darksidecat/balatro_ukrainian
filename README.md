@@ -2,26 +2,21 @@
 
 Версія гри 1.0.1g-FULL
 
-## Втановлення моду на Windows:
-
+## Встановлення моду на Windows:
 1) Встановити модлоадер [Lovely](https://github.com/ethangreen-dev/lovely-injector) щоб була можливість встановлювати моди
     1. Відкрийте папку з грою, якщо через Steam - `ПКМ по грі - Управління - Переглянути локальні файли`
-    1. В папку з грою помістіть файл `version.dll` який можна знайти за [посиланням](https://github.com/ethangreen-dev/lovely-injector/releases)
-  
+    2. В папку з грою помістіть файл `version.dll` який можна знайти за [посиланням](https://github.com/ethangreen-dev/lovely-injector/releases)
 2) В вікні адреси в Провіднику ведіть `%appdata%\Balatro` та натисніть `Ентер`
-   
    ![image](https://github.com/darksidecat/balatro_ukrainian/assets/1649575/b28ec5dd-e9e0-4b1e-bfa0-c9d5e6744a1f)
    
    Має бути щось накшталт `C:\Users\darksidecat\AppData\Roaming\Balatro`. 
    Копіюємо в цю папку папки `resources, mods, localization`
    Якщо директорії не існує, то треба запустити один раз гру. 
-
 4) Запускаємо гру, разом з нею запуститься завантажувач модів в якому буде показано успішне завантаження моду, наприклад ось так
   ```INFO - [LOVELY] Applied 3 patches to 'game.lua'```
 5) В налаштуваннях гри обираємо українську мову
 
-## Втановлення моду на Linux/Steam Deck
-
+## Встановлення моду на Linux/Steam Deck
 1) Встановити модлоадер [Lovely](https://github.com/ethangreen-dev/lovely-injector), щоб була можливість встановлювати моди
     1. В папку з грою помістіть файл `version.dll` який можна знайти за [посиланням](https://github.com/ethangreen-dev/lovely-injector/releases)
     2. Папку з грою можна відкрити через стім `ПКМ по грі - Управління - Переглянути локальні файли`
