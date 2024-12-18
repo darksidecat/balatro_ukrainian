@@ -281,7 +281,7 @@
                 text = {
                     "Кожен зіграний {C:attention}Туз{},",
                     "{C:attention}2{}, {C:attention}3{}, {C:attention}5{}, або {C:attention}8{} дає",
-                    "{C:mult}+#1#{} множ, якщо зіграв",
+                    "{C:mult}+#1#{} множ, якщо зарахований",
                 }
             },
             j_steel_joker = {
@@ -329,7 +329,7 @@
                 text = {
                     "Повторно задіяти",
                     "кожну зіграну",
-                    "{C:attention}2{}, {C:attention}3{}, {C:attention}4{}, or {C:attention}5{}",
+                    "{C:attention}2{}, {C:attention}3{}, {C:attention}4{}, або {C:attention}5{}",
                 }
             },
             j_gros_michel = {
