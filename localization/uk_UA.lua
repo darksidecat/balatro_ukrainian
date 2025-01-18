@@ -1,4 +1,4 @@
-return {
+﻿return {
     descriptions = {
         Back = {
             b_abandoned = {
@@ -157,7 +157,7 @@ return {
                 },
             },
             bl_final_acorn = {
-                name = "Бурштиновий жолудь",
+                name = "Жолудь",
                 text = {
                     "Перевертає та перемішує",
                     "усі карти Джокерів",
@@ -475,8 +475,8 @@ return {
                 },
                 unlock = {
                     "Майте хоча б {E:1,C:attention}#1#",
-                    "карт {E:1,C:attention}#2#",
-                    "масті у вашій колоді",
+                    "карт масті {E:1,C:attention}#2#",
+                    "у вашій колоді",
                 },
             },
             j_astronomer = {
@@ -532,8 +532,8 @@ return {
                 },
                 unlock = {
                     "Майте хоча б {E:1,C:attention}#1#",
-                    "карт {E:1,C:attention}#2#",
-                    "масті у вашій колоді",
+                    "карт масті {E:1,C:attention}#2#",
+                    "у вашій колоді",
                 },
             },
             j_blue_joker = {
@@ -743,7 +743,7 @@ return {
             j_crafty = {
                 name = "Вправний Джокер",
                 text = {
-                    "{C:chips}+#1#{} фішок, якщо зігран",
+                    "{C:chips}+#1#{} фішок, якщо зіграна",
                     "рука містить",
                     "{C:attention}#2#",
                 },
@@ -942,7 +942,7 @@ return {
                 name = "Подарункова картка",
                 text = {
                     "Додає {C:money}₴#1#{} {C:attention}вартості продажі",
-                    "до кожного {C:attention}Джокера{} ти",
+                    "до кожного {C:attention}Джокера{} та",
                     "{C:attention}Витратної{} карти",
                     "наприкінці раунду",
                 },
@@ -1287,8 +1287,8 @@ return {
                 },
                 unlock = {
                     "Майте хоча б {E:1,C:attention}#1#",
-                    "карт {E:1,C:attention}#2#",
-                    "масті у вашій колоді",
+                    "карт масті {E:1,C:attention}#2#",
+                    "у вашій колоді",
                 },
             },
             j_oops = {
@@ -1433,8 +1433,8 @@ return {
                 },
                 unlock = {
                     "Майте хоча б {E:1,C:attention}#1#",
-                    "карт {E:1,C:attention}#2#",
-                    "масті у вашій колоді",
+                    "карт масті {E:1,C:attention}#2#",
+                    "у вашій колоді",
                 },
             },
             j_runner = {
@@ -1722,7 +1722,7 @@ return {
             j_tribe = {
                 name = "Плем'я",
                 text = {
-                    "{X:mult,C:white} X#1# {} множ, якщо зігран",
+                    "{X:mult,C:white} X#1# {} множ, якщо зіграна",
                     "рука містить",
                     "{C:attention}#2#",
                 },
@@ -3355,7 +3355,7 @@ return {
             shattered = "Розбитий",
             speedrunner = "Спідранер",
             tiny_hands = "Маленькі руки",
-            you_get_what_you_get = "Ти отримуєш те, що отримуєш",
+            you_get_what_you_get = "Маємо те, що маємо",
         },
         blind_states = {
             Current = "Теперішній",
@@ -3555,7 +3555,7 @@ return {
             k_debuffed = "Послаблено",
             k_deck = "Колода",
             k_deck_stake_wins = "Перемог з колодою",
-            k_defeated_by = "Переможений",
+            k_defeated_by = "Вас переміг",
             k_demo_version_ex = "Демо-версія!",
             k_disabled_ex = "Вимкнено!",
             k_drank_ex = "Випито!",
@@ -3639,7 +3639,7 @@ return {
             k_unknown = "?????",
             k_unlocked_ex = "Розблоковано!",
             k_upgrade_ex = "Покращено!",
-            k_val_up = "Цінність зростає!",
+            k_val_up = "Дорожчає!",
             k_view = "Огляд",
             k_voucher = "Купон",
             k_vouchers_cap = "КУПОНИ",
