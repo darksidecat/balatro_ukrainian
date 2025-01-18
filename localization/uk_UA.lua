@@ -3355,7 +3355,7 @@
             shattered = "Розбитий",
             speedrunner = "Спідранер",
             tiny_hands = "Маленькі руки",
-            you_get_what_you_get = "Ти отримуєш те, що отримуєш",
+            you_get_what_you_get = "Маємо те, що маємо",
         },
         blind_states = {
             Current = "Теперішній",
