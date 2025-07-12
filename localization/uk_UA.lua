@@ -1,4 +1,8 @@
-﻿return {
+﻿local en = require "localization/en-us"
+
+
+
+local uk = {
     descriptions = {
         Back = {
             b_abandoned = {
@@ -4306,3 +4310,22 @@
         },
     },
 }
+
+function merge_translations(english_table, translated_table)
+    local result = {}
+
+    for key, en_value in pairs(english_table) do
+        local trans_value = translated_table and translated_table[key]
+
+        if type(en_value) == "table" and type(trans_value) == "table" then
+            result[key] = merge_translations(en_value, trans_value)
+        else
+            result[key] = trans_value or en_value
+        end
+    end
+
+    return result
+end
+
+
+return merge_translations(en, uk)
